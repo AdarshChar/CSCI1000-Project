@@ -22,11 +22,11 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/ronBurgundy' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
-          </a>
-          <a
+          <a href='/robertoSierra' className='card'>
+          <h3>Roberto Sierra &rarr;</h3>
+          <p>Click here to check my awesome webpage...</p>
+        </a>
+        <a
             href='https://github.com/wangalec/website-template'
             className='card'>
             <h3>Project Resources&rarr;</h3>
