@@ -27,8 +27,8 @@ export default function Home() {
           <p>Click here to check my awesome webpage...</p>
         </a>
         <a href='/aDey' className='card'>
-          <h3>Sam Dey &rarr;</h3>
-          <p>Check this out</p>
+          <h3>The Chatham Snipe &rarr;</h3>
+          <p>Click here to find out more about a bird lol</p>
           </a>
         <a
             href='https://github.com/wangalec/website-template'
