@@ -26,6 +26,7 @@ export default function examplePage() {
           The Chatham Snipe frequently feeds on worms, amphipods, insects, and larva it finds on the ground of it's native habitat of the temperate forests and grasslands
           common to the Chatham Islands.
           </p>
+          <h5 className='kudos'>by Sam Dey</h5>
           <a className='button' href='/'>
             <p>Home</p>
           </a>

@@ -34,6 +34,14 @@ export default function Home() {
             </p>
           </a>
           <a
+            href='https://github.com/AdarshChar/CSCI1000-Project'
+            className='card'>
+            <h3>Our GitHub Project&rarr;</h3>
+            <p>
+              Here's our own GitHub Project.
+            </p>
+          </a>
+          <a
             href='https://nextjs.org/learn/foundations/about-nextjs'
             className='card'>
             <h3>Next.js&rarr;</h3>
@@ -161,7 +169,7 @@ export default function Home() {
           text-align: left;
           color: inherit;
           text-decoration: none;
-          border: 1px solid #eaeaea;
+          border: 1px solid #bfbfbf;
           border-radius: 10px;
           transition: color 0.15s ease, border-color 0.15s ease;
         }
@@ -169,8 +177,8 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
+          color: #141414;
+          border-color: #141414;
         }
 
         .card h3 {
