@@ -106,7 +106,7 @@ export default function examplePage() {
             color:#E1D9D1;
             padding: 0;
             margin: 0;
-            font-family: Monospace;
+            font-family:Fantasy;
           }
   
           * {

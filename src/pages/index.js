@@ -9,17 +9,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>The Foreign Web</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          Welcome to our random page...
         </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/page/teamMemberName.js</code>
+    
 
         <div className='grid'>
           <a href='/robertoSierra' className='card'>
@@ -204,11 +199,11 @@ export default function Home() {
       <style jsx global>{`
         html,
         body {
+          background: gold;
+          color: black;
           padding: 0;
           margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
+          font-family: Monocraft;
         }
 
         * {
