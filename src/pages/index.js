@@ -199,8 +199,8 @@ export default function Home() {
       <style jsx global>{`
         html,
         body {
-          background: gold;
-          color: black;
+          background: space grey;
+          color: white;
           padding: 0;
           margin: 0;
           font-family: Monocraft;
