@@ -25,6 +25,10 @@ export default function Home() {
           <h3>The Chatham Snipe &rarr;</h3>
           <p>Click here to find out more about a bird lol</p>
           </a>
+          <a href='/AdarshCharugundla' className='card'>
+            <h3>Adarsh Charugundla &rarr;</h3>
+            <p>Click here to navigate to my page</p>
+          </a>
         <a
             href='https://github.com/wangalec/website-template'
             className='card'>
