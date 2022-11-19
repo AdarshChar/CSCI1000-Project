@@ -31,7 +31,7 @@ export default function Home() {
           </a>
           <a href='/ThomasGhirmatsion' className='card'>
             <h3>Thomas Ghirmatsion &rarr;</h3>
-            <p>Click here to see my profile</p>
+            <p>Wanna check me out?</p>
           </a>
         </div>
       </main>
