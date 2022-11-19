@@ -29,39 +29,9 @@ export default function Home() {
             <h3>Adarsh Charugundla &rarr;</h3>
             <p>Click here to navigate to my page</p>
           </a>
-        <a
-            href='https://github.com/wangalec/website-template'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
-            <p>
-              Return to the Github for resources on creating your own website!
-            </p>
-          </a>
-          <a
-            href='https://github.com/AdarshChar/CSCI1000-Project'
-            className='card'>
-            <h3>Our GitHub Project&rarr;</h3>
-            <p>
-              Here's our own GitHub Project.
-            </p>
-          </a>
-          <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
-            className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
-          </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
-          </a>
-          <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
+          <a href='/ThomasGhirmatsion' className='card'>
+            <h3>Thomas Ghirmatsion &rarr;</h3>
+            <p>Click here to see my profile</p>
           </a>
         </div>
       </main>
